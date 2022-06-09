@@ -1,6 +1,6 @@
 {
-  "name": "webpack-graphql-ts-transform",
-  "version": "0.2.1",
+  "name": "@avify/webpack-graphql-ts-transform",
+  "version": "1.0.0",
   "description": "Compiles GraphQL into typescript files",
   "main": "build/index.js",
   "typings": "build/index.d.ts",
