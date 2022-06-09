@@ -25,9 +25,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/firede/ts-transform-graphql-tag/issues"
+    "url": "https://github.com/avify-com/webpack-graphql-ts-transform.git"
   },
-  "homepage": "https://github.com/firede/ts-transform-graphql-tag#readme",
+  "homepage": "https://github.com/avify-com/webpack-graphql-ts-transform#readme",
   "devDependencies": {
     "@types/debug": "0.0.31",
     "@types/glob": "^7.1.0",
