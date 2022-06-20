@@ -1,4 +1,4 @@
-# Webpack-graphql-ts-trasnform
+# Webpack-graphql-ts-transform
 
 This package was build to help servers using apollo-server and other technologies to compile graphql before going into your server to speed development time
 
